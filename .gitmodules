@@ -7,3 +7,6 @@
 [submodule "psr/psr-7"]
 	path = psr/psr-7
 	url = git@github.com:php-fig/http-message.git
+[submodule "psr/psr-3"]
+	path = psr/psr-3
+	url = git@github.com:php-fig/log.git

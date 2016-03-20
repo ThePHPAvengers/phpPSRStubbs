@@ -1,9 +1,6 @@
 [submodule "psr/psr-6"]
 	path = psr/psr-6
 	url = git@github.com:php-fig/cache.git
-[submodule "psr/psr-3"]
-	path = psr/psr-3
-	url = git@github.com:php-fig/log.git
 [submodule "psr/boilers/psr-6"]
 	path = psr/boilers/psr-6
 	url = git@github.com:php-fig/cache-util.git
